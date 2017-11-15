@@ -1,0 +1,18 @@
+//
+//  pch.pch
+//  tallyBook
+//
+//  Created by sunpeng on 2017/11/15.
+//  Copyright © 2017年 mac1. All rights reserved.
+//
+
+#ifndef pch_pch
+#define pch_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "define.h"
+#import "UIView+UIview_Layout.h"
+
+#endif /* pch_pch */
