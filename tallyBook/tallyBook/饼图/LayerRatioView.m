@@ -11,6 +11,8 @@
 #define kPieFillColor [UIColor clearColor].CGColor
 #define kPieRandColor [UIColor colorWithRed:arc4random() % 255 / 255.0f green:arc4random() % 255 / 255.0f blue:arc4random() % 255 / 255.0f alpha:1.0f]
 
+ //用于测试 饼图点击事件 ： 思路 ：点击View获取到点的坐标位置对应的data 从而得到点击的data的数据
+
 @implementation LayerRatioView
 
 
